@@ -9,6 +9,12 @@
         <option value="$PROJECT_DIR$/docker/pom.xml" />
         <option value="$PROJECT_DIR$/bedrock/pom.xml" />
         <option value="$PROJECT_DIR$/multimodel/pom.xml" />
+        <option value="$PROJECT_DIR$/v1/bedrock/pom.xml" />
+        <option value="$PROJECT_DIR$/v1/docker/pom.xml" />
+        <option value="$PROJECT_DIR$/v1/multimodel/pom.xml" />
+        <option value="$PROJECT_DIR$/v1/ollama/pom.xml" />
+        <option value="$PROJECT_DIR$/v1/openai/pom.xml" />
+        <option value="$PROJECT_DIR$/v2/springai/pom.xml" />
       </list>
     </option>
   </component>
